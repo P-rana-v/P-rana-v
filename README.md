@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pranav
-- Age 18
+- Age 19
 - 📫 Reach me on discord @Pranav#6259
 
 <!---
