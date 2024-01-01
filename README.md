@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pranav
 - Age 19
-- 📫 Reach me on discord @Pranav#6259
 
 <!---
 P-rana-v/P-rana-v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
